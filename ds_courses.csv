@@ -1,0 +1,170 @@
+Course Mnemonic,Course Title,Instructor,Room,Day(s) of the week,Start time,End time
+DS 1001,Foundation of Data Science,Brian Wright,Nau Hall 101,MoWe,14:00:00,15:15:00
+DS 1001,Foundation of Data Science,Ali Rivera,Data Science Building Room 206,Fr,14:00:00,14:50:00
+DS 1001,Foundation of Data Science,TBD,Data Science Building Room 206,Fr,12:00:00,12:50:00
+DS 1001,Foundation of Data Science,Ali Rivera,Data Science Building Room 206,Fr,13:00:00,13:50:00
+DS 1001,Foundation of Data Science,TBD,Data Science Building Room 306,Fr,12:00:00,12:50:00
+DS 1001,Foundation of Data Science,TBD,Data Science Building Room 306,Fr,13:00:00,13:50:00
+DS 1002,Programming for Data Science,Mai Dahshan,Data Science Building Room 305,MoWe,15:30:00,16:45:00
+DS 1002,Programming for Data Science,Mai Dahshan,Data Science Building Room 305,TuTh,14:00:00,15:15:00
+DS 2002,Data Science Systems,Jon Tupitza,Data Science Building Room 305,MoWeFr,09:00:00,09:50:00
+DS 2002,Data Science Systems,Jason Williamson,Data Science Building Room 305,MoWeFr,10:00:00,10:50:00
+DS 2002,Data Science Systems,Karsten Siller,Data Science Building Room 205,MoWeFr,09:00:00,09:50:00
+DS 2003,Communicating with Data,Nur Yildirim,Data Science Building Room 205,TuTh,09:30:00,10:45:00
+DS 2003,Communicating with Data,Hannah Bako,Data Science Building Room 305,MoWeFr,11:00:00,11:50:00
+DS 2004,Data Ethics,Emanuel Moss,Data Science Building Room 305,TuTh,11:00:00,12:15:00
+DS 2004,Data Ethics,David Danks,Data Science Building Room 206,TuTh,12:30:00,13:45:00
+DS 2024,Value I: Ethics & Policy in Data Science - Major,Aaron Martin,Data Science Building Room 205,MoWe,14:00:00,15:15:00
+DS 2024,Value I: Ethics & Policy in Data Science - Major,Aaron Martin,Data Science Building Room 205,MoWe,15:30:00,16:45:00
+DS 3001,Foundations of Machine Learning,Terence Johnson,Data Science Building Room 305,TuTh,12:30:00,13:45:00
+DS 3001,Foundations of Machine Learning,Cheng Peng,Data Science Building Room 305,TuTh,09:30:00,10:45:00
+DS 3001,Foundations of Machine Learning,Michael Freenor,Data Science Building Room 305,TuTh,15:30:00,16:45:00
+DS 3001,Foundations of Machine Learning,Ethan Nelson,Data Science Building Room 305,MoWe,17:00:00,18:15:00
+DS 3021,Analytics I: Foundations of Machine Learning,Brian Wright,Data Science Building Room 205,TuTh,14:00:00,15:15:00
+DS 3021,Analytics I: Foundations of Machine Learning,Terence Johnson,Data Science Building Room 205,TuTh,15:30:00,16:45:00
+DS 3025,Mathematics for Data Science,Gianluca Guadagni,Data Science Building Room 205,TuTh,11:00:00,12:15:00
+DS 3025,Mathematics for Data Science,Gianluca Guadagni,Data Science Building Room 205,We,13:00:00,13:50:00
+DS 3025,Mathematics for Data Science,Gianluca Guadagni,Data Science Building Room 205,TuTh,12:30:00,13:45:00
+DS 3025,Mathematics for Data Science,Gianluca Guadagni,Data Science Building Room 205,Mo,13:00:00,13:50:00
+DS 3026,Principles of Inference and Prediction,Prince Afriyie,Data Science Building Room 306,MoWe,14:00:00,15:15:00
+DS 3026,Principles of Inference and Prediction,Prince Afriyie,Data Science Building Room 306,MoWe,15:30:00,16:45:00
+DS 4002,Data Science Project,Javier Rasero,Data Science Building Room 205,MoWeFr,10:00:00,10:50:00
+DS 4002,Data Science Project,Karsten Siller,Data Science Building Room 206,MoWeFr,11:00:00,11:50:00
+DS 4023,Data Design II: Interactive Applications,Mai Dahshan,Data Science Building Room 306,TuTh,12:30:00,13:45:00
+DS 4024,Value II: Explainable AI,Farhana Faruqe,Data Science Building Room 306,TuTh,14:00:00,15:15:00
+DS 4024,Value II: Explainable AI,Chirag Agarwal,Data Science Building Room 306,TuTh,15:30:00,16:45:00
+DS 4125,Introduction to Deep Learning,Jianxin Xie,Data Science Building Room 206,MoWeFr,10:00:00,10:50:00
+DS 4320,Data by Design,Loreto Alonzi,Data Science Building Room 206,MoWe,14:00:00,15:15:00
+DS 4320,Data by Design,Loreto Alonzi,Data Science Building Room 206,MoWe,15:30:00,16:45:00
+DS 4993,Independent Study in Data Science,,,,,
+DS 4993,Independent Study in Data Science,,,,,
+DS 5001,Text as Data,Rafael Alvarado,Data Science Building Room 205,MoWeFr,11:00:00,11:50:00
+DS 5001,Text as Data,Sree Mallikarjun,Web-Based Course,Tu,18:00:00,19:00:00
+DS 5003,Healthcare Data Science,Christian Wernz,Web-Based Course,Tu,19:15:00,20:15:00
+DS 5007,Don't Invent The Torment Nexus: The History of Technology & Work,Mar Hicks,Web-Based Course,Tu,20:30:00,21:30:00
+DS 5012,Computation for Data Science,Yuri Malitsky,Web-Based Course,We,20:30:00,21:30:00
+DS 5023,Interactive Applications,Mai Dahshan,Data Science Building Room 306,TuTh,12:30:00,13:45:00
+DS 5030,Understanding Uncertainty,Jeffrey Woo,Web-Based Course,Tu,19:15:00,20:15:00
+DS 5070,Deep Learning in Environmental Science,Antonios Mamalakis,New Cabell Hall 395,TuTh,09:30:00,10:45:00
+DS 5220,Advanced Cloud Computing,Neal Magee,Data Science Building Room 205,MoWeFr,12:00:00,12:50:00
+DS 6001,Data Engineering I: Data Pipeline Architecture,Jonathan Kropko,Web-Based Course,Tu,20:30:00,21:30:00
+DS 6002,Ethics of Big Data I,Farhana Faruqe,Data Science Building Room 306,TuTh,09:30:00,10:45:00
+DS 6002,Ethics of Big Data I,Farhana Faruqe,Data Science Building Room 306,TuTh,11:00:00,12:15:00
+DS 6002,Ethics of Big Data I,Renee Cummings,Web-Based Course,Th,18:00:00,19:00:00
+DS 6002,Ethics of Big Data I,Renee Cummings,Web-Based Course,Th,18:00:00,19:00:00
+DS 6015,Data Science Capstone,Philip Waggoner,Web-Based Course,Th,19:15:00,21:15:00
+DS 6015,Data Science Capstone,Rafael Alvarado,Web-Based Course,Th,19:15:00,21:15:00
+DS 6015,Data Science Capstone,Adam Tashman,Web-Based Course,Th,19:15:00,21:15:00
+DS 6021,Machine Learning I: Introduction to Predictive Modeling,Jeffrey Woo,Web-Based Course,We,19:15:00,20:15:00
+DS 6030,Machine Learning II: Data Mining & Statistical Learning,Michael Porter,Data Science Building Room 206,TuTh,09:30:00,10:45:00
+DS 6030,Machine Learning II: Data Mining & Statistical Learning,Michael Porter,Data Science Building Room 206,TuTh,11:00:00,12:15:00
+DS 6050,Machine Learning III: Deep Learning,Tom Hartvigsen,Data Science Building Room 306,MoWeFr,10:00:00,10:50:00
+DS 6050,Machine Learning III: Deep Learning,Tom Hartvigsen,Data Science Building Room 306,MoWeFr,11:00:00,11:50:00
+DS 6050,Machine Learning III: Deep Learning,Heman Shakeri,Web-Based Course,We,19:15:00,20:15:00
+DS 6210,Computation II: Numerical Analysis & Optimization,Heman Shakeri,Data Science Building Room 246,MoWe,12:30:00,13:45:00
+DS 6310,Theory II: Inference & Prediction,Thomas Stewart,Data Science Building Room 246,TuTh,09:30:00,10:45:00
+DS 6404,Physics-Aware Deep Learning,Stephen Baek,Data Science Building Room 246,TuTh,11:00:00,12:15:00
+DS 6410,Advanced Machine Learning II: Methods & Application,Aiying Zhang,Data Science Building Room 246,MoWe,09:30:00,10:45:00
+DS 6425,Time Series Modeling,Don Brown,Data Science Building Room 246,MoWe,14:00:00,15:15:00
+DS 6700,"Value I: Data Ethics, Policy and Governance",Jess Reia,Data Science Building Room 246,MoWe,15:30:00,16:45:00
+DS 6993,Independent Study,,,,,
+DS 6993,Independent Study,,,,,
+DS 6993,Independent Study,,,,,
+DS 6993,Independent Study,,,,,
+DS 6993,Independent Study,,,,,
+DS 6993,Independent Study,,,,,
+DS 6993,Independent Study,,,,,
+DS 6993,Independent Study,,,,,
+DS 6993,Independent Study,,,,,
+DS 6993,Independent Study,,,,,
+DS 6993,Independent Study,,,,,
+DS 7600,Design I: Human-Centered Design,Nur Yildirim,Data Science Building Room 206,TuTh,14:00:00,15:15:00
+DS 8104,Network Science,Alex Gates,Data Science Building Room 246,TuTh,15:30:00,16:45:00
+DS 8998,Master's Level Thesis Research,,,,,
+DS 8998,Master's Level Thesis Research,,,,,
+DS 8998,Master's Level Thesis Research,,,,,
+DS 8998,Master's Level Thesis Research,,,,,
+DS 8998,Master's Level Thesis Research,,,,,
+DS 8998,Master's Level Thesis Research,,,,,
+DS 8998,Master's Level Thesis Research,,,,,
+DS 8998,Master's Level Thesis Research,,,,,
+DS 8998,Master's Level Thesis Research,,,,,
+DS 8998,Master's Level Thesis Research,,,,,
+DS 8998,Master's Level Thesis Research,,,,,
+DS 8998,Master's Level Thesis Research,,,,,
+DS 8998,Master's Level Thesis Research,,,,,
+DS 8998,Master's Level Thesis Research,,,,,
+DS 8998,Master's Level Thesis Research,,,,,
+DS 8998,Master's Level Thesis Research,,,,,
+DS 8998,Master's Level Thesis Research,,,,,
+DS 8998,Master's Level Thesis Research,,,,,
+DS 8998,Master's Level Thesis Research,,,,,
+DS 8998,Master's Level Thesis Research,,,,,
+DS 8998,Master's Level Thesis Research,,,,,
+DS 8998,Master's Level Thesis Research,,,,,
+DS 8998,Master's Level Thesis Research,,,,,
+DS 8998,Master's Level Thesis Research,,,,,
+DS 8998,Master's Level Thesis Research,,,,,
+DS 8998,Master's Level Thesis Research,,,,,
+DS 8998,Master's Level Thesis Research,,,,,
+DS 8998,Master's Level Thesis Research,,,,,
+DS 8998,Master's Level Thesis Research,,,,,
+DS 8998,Master's Level Thesis Research,,,,,
+DS 8998,Master's Level Thesis Research,,,,,
+DS 8998,Master's Level Thesis Research,,,,,
+DS 8998,Master's Level Thesis Research,,,,,
+DS 8998,Master's Level Thesis Research,,,,,
+DS 8998,Master's Level Thesis Research,,,,,
+DS 8998,Master's Level Thesis Research,,,,,
+DS 8998,Master's Level Thesis Research,,,,,
+DS 8998,Master's Level Thesis Research,,,,,
+DS 8998,Master's Level Thesis Research,,,,,
+DS 8998,Master's Level Thesis Research,,,,,
+DS 8998,Master's Level Thesis Research,,,,,
+DS 8998,Master's Level Thesis Research,,,,,
+DS 8998,Master's Level Thesis Research,,,,,
+DS 8998,Master's Level Thesis Research,,,,,
+DS 9999,Dissertation Research,,,,,
+DS 9999,Dissertation Research,,,,,
+DS 9999,Dissertation Research,,,,,
+DS 9999,Dissertation Research,,,,,
+DS 9999,Dissertation Research,,,,,
+DS 9999,Dissertation Research,,,,,
+DS 9999,Dissertation Research,,,,,
+DS 9999,Dissertation Research,,,,,
+DS 9999,Dissertation Research,,,,,
+DS 9999,Dissertation Research,,,,,
+DS 9999,Dissertation Research,,,,,
+DS 9999,Dissertation Research,,,,,
+DS 9999,Dissertation Research,,,,,
+DS 9999,Dissertation Research,,,,,
+DS 9999,Dissertation Research,,,,,
+DS 9999,Dissertation Research,,,,,
+DS 9999,Dissertation Research,,,,,
+DS 9999,Dissertation Research,,,,,
+DS 9999,Dissertation Research,,,,,
+DS 9999,Dissertation Research,,,,,
+DS 9999,Dissertation Research,,,,,
+DS 9999,Dissertation Research,,,,,
+DS 9999,Dissertation Research,,,,,
+DS 9999,Dissertation Research,,,,,
+DS 9999,Dissertation Research,,,,,
+DS 9999,Dissertation Research,,,,,
+DS 9999,Dissertation Research,,,,,
+DS 9999,Dissertation Research,,,,,
+DS 9999,Dissertation Research,,,,,
+DS 9999,Dissertation Research,,,,,
+DS 9999,Dissertation Research,,,,,
+DS 9999,Dissertation Research,,,,,
+DS 9999,Dissertation Research,,,,,
+DS 9999,Dissertation Research,,,,,
+DS 9999,Dissertation Research,,,,,
+DS 9999,Dissertation Research,,,,,
+DS 9999,Dissertation Research,,,,,
+DS 9999,Dissertation Research,,,,,
+DS 9999,Dissertation Research,,,,,
+DS 9999,Dissertation Research,,,,,
+DS 9999,Dissertation Research,,,,,
+DS 9999,Dissertation Research,,,,,
+DS 9999,Dissertation Research,,,,,
+DS 9999,Dissertation Research,,,,,
