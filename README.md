@@ -2,8 +2,6 @@
 
 ## Data Dictionary 
 
-<small>Note: This can also be found on the README of the Github Repository https://github.com/iveymistele/DBD_midterm </small>
-
 
 ### Dataset Scope
 
