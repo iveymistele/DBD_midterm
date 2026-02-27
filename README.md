@@ -40,7 +40,7 @@ Independent Study and Thesis Research sections are retained in the dataset to pr
 #### Room
 - **Type:** String  
 - **Description:** Building and/or room where the course section meets.  
-- **Notes:** Room data is not publicly available via Hooslist. SIS contains room information but is access-restricted and not scrapeable. Left blank.
+- **Notes:** Room information was obtained from the logged-in Hooslist interface. Sections that do not meet in a physical classroom (e.g., Independent Study, Master’s Level Thesis Research, Dissertation Research) do not have assigned rooms and are left blank. Web-based courses are labeled as "Web-Based Course."
 
 ---
 
